@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HackTheResume/static/css/main.a2a8d142.chunk.css",
+    "main.js": "/HackTheResume/static/js/main.1965b226.chunk.js",
+    "main.js.map": "/HackTheResume/static/js/main.1965b226.chunk.js.map",
+    "runtime-main.js": "/HackTheResume/static/js/runtime-main.3d422596.js",
+    "runtime-main.js.map": "/HackTheResume/static/js/runtime-main.3d422596.js.map",
+    "static/js/2.9246e312.chunk.js": "/HackTheResume/static/js/2.9246e312.chunk.js",
+    "static/js/2.9246e312.chunk.js.map": "/HackTheResume/static/js/2.9246e312.chunk.js.map",
+    "index.html": "/HackTheResume/index.html",
+    "precache-manifest.9afba5da36c47c480f65cdec8fe0f170.js": "/HackTheResume/precache-manifest.9afba5da36c47c480f65cdec8fe0f170.js",
+    "service-worker.js": "/HackTheResume/service-worker.js",
+    "static/css/main.a2a8d142.chunk.css.map": "/HackTheResume/static/css/main.a2a8d142.chunk.css.map",
+    "static/js/2.9246e312.chunk.js.LICENSE.txt": "/HackTheResume/static/js/2.9246e312.chunk.js.LICENSE.txt",
+    "static/media/cpu.svg": "/HackTheResume/static/media/cpu.d1276a49.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d422596.js",
+    "static/js/2.9246e312.chunk.js",
+    "static/css/main.a2a8d142.chunk.css",
+    "static/js/main.1965b226.chunk.js"
+  ]
+}
